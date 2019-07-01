@@ -1,0 +1,7 @@
+formats: []
+
+conda:
+  file: starkit_env3.yml
+
+python:
+  version: 3.6
