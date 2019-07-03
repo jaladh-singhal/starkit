@@ -84,9 +84,9 @@ copyright = '{0}, {1}'.format(
 # built documents.
 
 # The short X.Y version.
-version = "V-moved-documentation"
+version = "-moved-documentation"
 # The full version, including alpha/beta/rc tags.
-release = "V-moved-documentation"
+release = "-moved-documentation"
 
 exclude_patterns = ['_build', '**.ipynb_checkpoints']
 
