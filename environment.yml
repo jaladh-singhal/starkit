@@ -18,6 +18,8 @@ dependencies:
 - notebook=5
 - matplotlib=3
 - bqplot
+- voila
+- appmode
 
 # Documentation requirements
 
